@@ -11,4 +11,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\tarea5P2.Models\tarea5P2.Models.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea5P2.API", "tarea5P2.AP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea5P2.Web", "tarea5P2.Web\tarea5P2.Web.csproj", "{819CC694-1353-4919-8007-5365BF21BD3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea5P2.Models", "tarea5P2.Models\tarea5P2.Models.csproj", "{C7E05F47-F8B5-4261-8892-1C2653FF9ACD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{819CC694-1353-4919-8007-5365BF21BD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{819CC694-1353-4919-8007-5365BF21BD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{819CC694-1353-4919-8007-5365BF21BD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E05F47-F8B5-4261-8892-1C2653FF9ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E05F47-F8B5-4261-8892-1C2653FF9ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E05F47-F8B5-4261-8892-1C2653FF9ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E05F47-F8B5-4261-8892-1C2653FF9ACD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
